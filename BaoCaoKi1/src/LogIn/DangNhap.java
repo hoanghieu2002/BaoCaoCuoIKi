@@ -331,3 +331,5 @@ public class DangNhap extends javax.swing.JFrame {
     private javax.swing.JPasswordField txtpass;
     // End of variables declaration//GEN-END:variables
 }
+
+
